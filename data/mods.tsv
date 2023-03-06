@@ -1,0 +1,3 @@
+mod_name	tags	description	mod_loader	curseforge_url	modrinth_url	mcmod_url
+MOD_A	TAG_A, TAG_B	DESC_A	Forge, Fabric	aaa	aaa	aaa
+MOD_B	TAG_B	DESC_B	Fabric	bbb	bbb	bbb
